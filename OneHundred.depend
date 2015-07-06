@@ -1,3 +1,26 @@
 # depslib dependency file v1.0
 1409733871 source:d:\mycode\c_langurage\onehundred\main.cpp
 
+1436187289 source:d:\mycode\c\onehundred\src\findmaxsum.cpp
+	"FindMaxSum.h"
+
+1436187214 d:\mycode\c\onehundred\include\findmaxsum.h
+
+1436191610 source:d:\mycode\c\onehundred\main.cpp
+	<iostream>
+	"MinKNums.h"
+
+1436188959 source:d:\mycode\c\onehundred\src\printsumpath.cpp
+	"PrintSumPath.h"
+
+1436188959 d:\mycode\c\onehundred\include\printsumpath.h
+	<iostream>
+	<vector>
+
+1436191597 source:d:\mycode\c\onehundred\src\minknums.cpp
+	"MinKNums.h"
+
+1436191164 d:\mycode\c\onehundred\include\minknums.h
+	<iostream>
+	<stdlib.h>
+
