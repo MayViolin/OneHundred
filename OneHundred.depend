@@ -1,5 +1,7 @@
 # depslib dependency file v1.0
-1409733871 source:d:\mycode\c_langurage\onehundred\main.cpp
+1436260949 source:d:\mycode\c_langurage\onehundred\main.cpp
+	<iostream>
+	"Sixth.h"
 
 1436187289 source:d:\mycode\c\onehundred\src\findmaxsum.cpp
 	"FindMaxSum.h"
@@ -23,4 +25,26 @@
 1436191164 d:\mycode\c\onehundred\include\minknums.h
 	<iostream>
 	<stdlib.h>
+
+1436256715 d:\mycode\c_langurage\onehundred\include\minknums.h
+	<iostream>
+	<stdlib.h>
+
+1436154316 source:d:\mycode\c_langurage\onehundred\src\binarytreetodeque.cpp
+	"BinaryTreeToDeque.h"
+	<iostream>
+	<stdlib.h>
+
+1436153988 d:\mycode\c_langurage\onehundred\include\binarytreetodeque.h
+
+1436258766 source:d:\mycode\c_langurage\onehundred\src\minknums.cpp
+	"MinKNums.h"
+
+1436262061 source:d:\mycode\c_langurage\onehundred\src\sixth.cpp
+	"Sixth.h"
+
+1436261280 d:\mycode\c_langurage\onehundred\include\sixth.h
+	<iostream>
+	<stdlib.h>
+	<memory>
 

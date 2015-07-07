@@ -29,7 +29,7 @@ int MinKNums::GetMax(int* myHeap)
 void MinKNums::Heapify(int* myHeap, int k)
 {
     if (!myHeap) cout<<"ERROR! myHeap is NULL!"<<endl;
-    for (int i = k / 2; i >= 0; --i) {
+    for (int i = k / 2 - 1; i >= 0; --i) {
         HeapAdjust(myHeap, k, i);
     }
 }
@@ -44,7 +44,7 @@ void MinKNums::Solution(int a[], int length, int k)
     }
     Heapify(myHeap, k);
     // insert to my heap
-    for (int i = k-1; i < length; ++i) {
+    for (int i = k; i < length; ++i) {
         int maxNum = GetMax(myHeap);
         // if the top of my heap is bigger than a[i], top is a[i] and adjust the heap
         if (a[i] < maxNum) {
