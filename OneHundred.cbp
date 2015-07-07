@@ -37,10 +37,14 @@
 		<Unit filename="MinStack.h" />
 		<Unit filename="include/BinaryTreeToDeque.h" />
 		<Unit filename="include/MinKNums.h" />
+		<Unit filename="include/ReverseLinkList.h" />
+		<Unit filename="include/Seven.h" />
 		<Unit filename="include/Sixth.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/BinaryTreeToDeque.cpp" />
 		<Unit filename="src/MinKNums.cpp" />
+		<Unit filename="src/ReverseLinkList.cpp" />
+		<Unit filename="src/Seven.cpp" />
 		<Unit filename="src/Sixth.cpp" />
 		<Extensions>
 			<code_completion />

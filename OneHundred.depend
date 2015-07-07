@@ -8,9 +8,9 @@
 
 1436187214 d:\mycode\c\onehundred\include\findmaxsum.h
 
-1436191610 source:d:\mycode\c\onehundred\main.cpp
+1436270464 source:d:\mycode\c\onehundred\main.cpp
 	<iostream>
-	"MinKNums.h"
+	"Sixth.h"
 
 1436188959 source:d:\mycode\c\onehundred\src\printsumpath.cpp
 	"PrintSumPath.h"
@@ -19,7 +19,7 @@
 	<iostream>
 	<vector>
 
-1436191597 source:d:\mycode\c\onehundred\src\minknums.cpp
+1436270464 source:d:\mycode\c\onehundred\src\minknums.cpp
 	"MinKNums.h"
 
 1436191164 d:\mycode\c\onehundred\include\minknums.h
@@ -47,4 +47,16 @@
 	<iostream>
 	<stdlib.h>
 	<memory>
+
+1436270576 d:\mycode\c\onehundred\include\sixth.h
+	<iostream>
+	<stdlib.h>
+	<memory>
+
+1436185836 source:d:\mycode\c\onehundred\src\binarytreetodeque.cpp
+	"BinaryTreeToDeque.h"
+	<iostream>
+	<stdlib.h>
+
+1436185836 d:\mycode\c\onehundred\include\binarytreetodeque.h
 

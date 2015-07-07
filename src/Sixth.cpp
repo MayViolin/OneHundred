@@ -10,7 +10,9 @@ Sixth::~Sixth()
 {
     //dtor
 }
-
+/**
+    应该会用到HashMap等，写的算法有点问题
+*/
 void Sixth::Solution(int a[], int length)
 {
     if (length == 0) return;
